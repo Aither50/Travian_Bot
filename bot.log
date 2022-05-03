@@ -1,2 +1,18 @@
-21:56:59 INFO : Logging in ...
-21:56:59 INFO : Login succesful
+03/05/2022 07:44:23 PM: Trying to login...
+03/05/2022 07:44:23 PM: GET request on https://low8.ttwars.com/dorf1.php
+03/05/2022 07:44:26 PM: POST request on https://low8.ttwars.com/dorf1.php
+03/05/2022 07:44:29 PM: Login succes !
+03/05/2022 07:44:29 PM: Loading the village list ...
+03/05/2022 07:44:29 PM: Village V1 23801 found !
+03/05/2022 07:44:29 PM: Village V2 23802 found !
+03/05/2022 07:44:29 PM: You have 83 gold
+03/05/2022 07:44:29 PM: Checking if there are constructions in the villages ...
+03/05/2022 07:44:29 PM: GET request on https://low8.ttwars.com/dorf1.php?newdid=23801
+03/05/2022 07:44:31 PM: GET request on https://low8.ttwars.com/dorf1.php?newdid=23802
+03/05/2022 07:44:32 PM: There is currently no construction in V1
+03/05/2022 07:44:32 PM: 5 Found for V1
+03/05/2022 07:44:32 PM: GET request on https://low8.ttwars.com/dorf1.php?newdid=23801
+03/05/2022 07:44:33 PM: GET request on https://low8.ttwars.com/build.php?newdid=23801&id=1
+03/05/2022 07:44:35 PM: Res id : 1 on 23801 upgraded.
+03/05/2022 07:44:35 PM: GET request on https://low8.ttwars.com/dorf1.php?a=1&c=55529d75
+03/05/2022 07:44:37 PM: GET request on https://low8.ttwars.com/dorf1.php?newdid=23801

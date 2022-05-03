@@ -1,0 +1,12 @@
+[
+  { "village_id": 23801, "field_id": 1, "target_level": 5 },
+  { "village_id": 23801, "field_id": 2, "target_level": 5 },
+  { "village_id": 23801, "field_id": 3, "target_level": 5 },
+  { "village_id": 23801, "field_id": 4, "target_level": 5 },
+  { "village_id": 23801, "field_id": 5, "target_level": 5 },
+  { "village_id": 23802, "field_id": 1, "target_level": 5 },
+  { "village_id": 23802, "field_id": 2, "target_level": 5 },
+  { "village_id": 23802, "field_id": 3, "target_level": 5 },
+  { "village_id": 23802, "field_id": 4, "target_level": 5 },
+  { "village_id": 23802, "field_id": 5, "target_level": 5 }
+]
